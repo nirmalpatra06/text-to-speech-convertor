@@ -21,7 +21,6 @@
 }
 .container h1 span {
   color: red;
-  text-decoration: line-through;
 }
 .container textarea {
   width: 600px;
